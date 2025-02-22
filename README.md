@@ -1,6 +1,8 @@
 # LEGO-Parametric-CATIA
 
 ## 🚀 Overview
+![Main Preview](assets/img/main.png)
+
 **Parametric LEGO Catalog** is a **CATIA-based** project designed to generate an entire LEGO catalog from a **single base model**. By leveraging **parametric modeling**, rules, and design tables, this project allows users to create a variety of LEGO bricks with different dimensions, shapes, and configurations dynamically.
 
 ## 🎯 Purpose
