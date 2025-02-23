@@ -31,7 +31,7 @@
 ## 📸 Previews
 | 📜 Base Model | 🏗️ Parametric Variations | 📊 Design Table |
 |-----------|-----------|-----------|
-| <img src="assets/img/base_model.png" width="300" height="300"> | <img src="assets/img/parametric_variations.png" width="300" height="300"> | <img src="assets/img/design_table.png" width="300" height="300"> |
+| <img src="assets/img/base_model.png"> | <img src="assets/img/parametric_variations.png"> | <img src="assets/img/design_table.png"> |
 
 ## 🌟 License
 This project is open-source. Feel free to use, modify, and contribute! 🚀
